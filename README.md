@@ -21,6 +21,7 @@ Data:
 This project utilizes version 5.0 of the [OntoNotes dataset](https://catalog.ldc.upenn.edu/LDC2013T19) released by the Linguistic Data Consortium
 
 Paper: 
-The paper for this project can be found here *Insert link to paper*
+The paper for this project can be found here [Exploring the Expression of Centering Theory Instantiations in
+Transformer-based LMs](https://www.overleaf.com/read/jcnwmqhqwgdb#086bd0)
 
 
